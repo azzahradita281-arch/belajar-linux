@@ -1,0 +1,7 @@
+beras 2
+gula 1
+minyak 2
+telur 12
+kopi 1
+sabun 3
+garam 1

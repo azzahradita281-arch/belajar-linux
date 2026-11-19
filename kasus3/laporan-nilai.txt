@@ -1,0 +1,7 @@
+LAPORAN NILAI
+Jumlah mahasiswa:
+6
+Tiga nilai tertinggi:
+90
+90
+80
